@@ -1,0 +1,15 @@
+.loading-page {
+}
+.search-front input {
+  width: 500px;
+  padding: 8px 5px;
+  margin: 0 2px;
+}
+
+.search-front input:focus{
+    outline: none;
+}
+
+.search-front button {
+  padding: 8px 5px;
+}

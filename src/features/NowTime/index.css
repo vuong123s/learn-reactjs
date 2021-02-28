@@ -1,0 +1,9 @@
+.time {
+  width: 500px;
+  height: 300px;
+  background-color: cornsilk;
+  color: black;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

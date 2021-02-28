@@ -1,12 +1,12 @@
 import logo from './logo.svg';
 import './App.css';
-import TodoList from "./features/Todo/index.js"
+import NowTime from "./features/NowTime/index.js"
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <TodoList></TodoList>
+        <NowTime></NowTime>
       </header>
     </div>
   );
